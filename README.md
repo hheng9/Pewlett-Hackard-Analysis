@@ -12,7 +12,9 @@ The DISTINCT function was then performed to filter out or exclude duplcates of t
 
 ![Deliverable1-2](https://user-images.githubusercontent.com/118647523/215585363-518e12b3-04ea-4941-a44f-978f9875af60.png)
 
-After querying the necessary data we are able to generate the total number of employees by their most recent job title who are about to retire in all fileds. We can see from the image below that there is a total of 
+After querying the necessary data we are able to generate the total number of employees by their most recent job title who are about to retire in all fileds. We can see from the image below that there is a total of 72458 employees who will be retiring from Pewlett Hackard. 
+Some obvious takeaways from the retiring titles table generated:
+  * 
 
 ![Deliverable1-3](https://user-images.githubusercontent.com/118647523/215585376-9e63171a-2495-46c1-bfc8-04e54c1951be.png)
 
