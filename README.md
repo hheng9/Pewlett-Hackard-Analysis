@@ -21,9 +21,12 @@ Here are some obvious takeaways from the retiring titles table generated:
 
 ![Deliverable1-3](https://user-images.githubusercontent.com/118647523/215585376-9e63171a-2495-46c1-bfc8-04e54c1951be.png)
 
-![Deliverable2](https://user-images.githubusercontent.com/118647523/215585386-1c346a84-00bf-4f9d-b0d6-f6ee3901b7ba.png)
+Using the entity relationship diagram built we create a new table to analyze which employees are eligible to participate in the mentorship program. The employee table, department employees table, and titles table were joined together through specific dates to list the data needed for eligibility. .
 
-![SQL code](https://user-images.githubusercontent.com/118647523/215585410-d9d057f3-4f1d-4359-827f-d8d3ce6c1ca3.png)
+  * The employees eligible for the mentorship program were filtered for people born in the year 1965.
+  * The table columns list the employee number, first & last name, birth date , and job title. 
+
+![Deliverable2](https://user-images.githubusercontent.com/118647523/215585386-1c346a84-00bf-4f9d-b0d6-f6ee3901b7ba.png)
 
 ## Summary:
 The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
