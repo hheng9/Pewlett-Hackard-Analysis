@@ -5,6 +5,11 @@ The purpose of this analysis was to use the postgreSQL tool called pgAdmin to ga
 
 ## Results:
 There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
+![Deliverable1](https://user-images.githubusercontent.com/118647523/215585354-8971f066-4eb1-417a-85ad-eea8f8722f6b.png)
+![Deliverable1-2](https://user-images.githubusercontent.com/118647523/215585363-518e12b3-04ea-4941-a44f-978f9875af60.png)
+![Deliverable1-3](https://user-images.githubusercontent.com/118647523/215585376-9e63171a-2495-46c1-bfc8-04e54c1951be.png)
+![Deliverable2](https://user-images.githubusercontent.com/118647523/215585386-1c346a84-00bf-4f9d-b0d6-f6ee3901b7ba.png)
+![SQL code](https://user-images.githubusercontent.com/118647523/215585410-d9d057f3-4f1d-4359-827f-d8d3ce6c1ca3.png)
 
 ## Summary:
 The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
