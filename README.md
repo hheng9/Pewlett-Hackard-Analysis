@@ -14,7 +14,9 @@ The DISTINCT function was then performed to filter out or exclude duplcates of t
 
 After querying the necessary data we are able to generate the total number of employees by their most recent job title who are about to retire in all fileds. We can see from the image below that there is a total of 72458 employees who will be retiring from Pewlett Hackard. 
 Some obvious takeaways from the retiring titles table generated:
-  * 
+  * Most of the seniors employees have the highest amount of upcoming retirments throughout the company totaling almost 50k.
+  * Only very few managers at Pewlett Hackard will be retiring soon.
+  * The general employees including technique leaders, engineers, and staff have an average amount of employees retiring anywhere from 1k-10k per group.
 
 ![Deliverable1-3](https://user-images.githubusercontent.com/118647523/215585376-9e63171a-2495-46c1-bfc8-04e54c1951be.png)
 
