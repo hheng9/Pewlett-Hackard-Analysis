@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview of the analysis:
-The purpose of this analysis was to use the postgreSQL tool called pgAdmin to gather the necessary data for employees at Pewlett Hackard nearing retirment eligibility and to fill the job positions they will be leaving behind. We map out the relationship in data by building entity relationship diagrams in a quick database diagram app (DBD) so we can better assign primary and foreigh key used to build our specified tables of information. The SQL code can be tailored to the desired information needed so we can filter data by department, managers, employees, salaries, and job titles.
+The purpose of this analysis was to use the postgreSQL tool called pgAdmin to gather the necessary data for employees at Pewlett Hackard nearing retirment eligibility and to fill the job positions they will be leaving behind. We map out the relationship in data by building entity relationship diagrams in a quick database diagram app (DBD) so we can better assign primary and foreign key used to build our specified tables of information. The SQL code can be tailored to the desired information needed so we can filter data by department, managers, employees, salaries, and job titles.
 
 ## Results:
 We begin by performing the JOIN function to merge employees table and the titles table into a new table displaying the titles of employees who are coming up on the their retirment dates. Listed below is a filter image for the retirement titles table that holds all the titles of employees who were born between January 1, 1952 and December 31, 1955.
