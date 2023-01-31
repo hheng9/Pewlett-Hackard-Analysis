@@ -29,4 +29,15 @@ Using the entity relationship diagram built we create a new table to analyze whi
 ![Deliverable2](https://user-images.githubusercontent.com/118647523/215585386-1c346a84-00bf-4f9d-b0d6-f6ee3901b7ba.png)
 
 ## Summary:
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
+  1. How many roles will need to be filled as the "silver tsunami" begins to make an impact? 13
+  133776 roles will need to be filled when the employees begin to retire.
+  2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
+  There are 1940 qualified mentors next up in line which is nowhere close to matching one mentor to each role that needs to be filled.
+ 
+The query created below was filter to view the eligible retirement employees and also include their salary information to better gauge how much the replacement would be in the current field title.
+
+![Deliverable3](https://user-images.githubusercontent.com/118647523/215633688-7aa2e60f-8f21-449f-8c5e-10638b72676e.png)
+
+The mentorship eligibilty table was altered to only view senior engineer titles that are eligible to particpate in the mentorship program. This helps filter in the desired categories to review the data easier.
+
+![Deliverable3-1](https://user-images.githubusercontent.com/118647523/215634451-bb860af1-0182-4db3-a82c-756150d4ce5e.png)
