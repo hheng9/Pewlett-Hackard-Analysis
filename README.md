@@ -30,8 +30,10 @@ Using the entity relationship diagram built we create a new table to analyze whi
 
 ## Summary:
   1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+  
   133776 roles will need to be filled when the employees begin to retire.
   2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
+  
   There are 1940 qualified mentors next up in line which is nowhere close to matching one mentor to each role that needs to be filled.
  
 The query created below was filter to view the eligible retirement employees and also include their salary information to better gauge how much the replacement would be in the current field title.
